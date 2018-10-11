@@ -1,0 +1,19 @@
+
+.midden {
+	margin: 0px auto
+	width: 60%;
+}
+
+.gridcontainer {
+	display: grid;
+	grid-column-gap: 10px;
+	grid-row-gap: 10px;
+	grid-template-areas: ;
+	grid-template-columns: ;
+	padding: 10px;
+}
+.gridcontainer > div {
+	text-align: center;
+	padding: 10px 5px;
+	font-size: 30px
+}
